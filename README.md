@@ -65,5 +65,3 @@ Sistema de monitoramento espacial que demonstra os principais conceitos de POO:
 ---
 
 **⭐ Boa viagem espacial!** 🌌
-
-## 📁 Estrutura do Projeto
