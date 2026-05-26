@@ -1,0 +1,1 @@
+# Global-Solution-2026---POO-Plataforma-de-Monitoramento-Espacial
