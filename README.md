@@ -58,6 +58,25 @@ Sistema de monitoramento espacial que demonstra os principais conceitos de POO:
 
 ---
 
+## 🖼️ Demonstração do Sistema
+
+### Menu Principal
+![Menu Principal](prints/menu-principal.png)
+
+### Leitura de Sensores
+![Leitura de Sensores](prints/sensores.png)
+
+### Controle de Propulsão
+![Controle de Propulsão](prints/propulsao.png)
+
+### Dados da Missão
+![Dados da Missão](prints/dados-missao.png)
+
+### Alertas e Status Completo
+![Alertas](prints/alertas.png)
+
+---
+
 ## 👨‍🚀 Desenvolvido por
 
 **Vitor Barbosa de Paiva**
